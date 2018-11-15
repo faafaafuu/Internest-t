@@ -1,0 +1,1804 @@
+{
+    "goods": [
+        {
+            "id": 2,
+            "data": {
+                "price": 990,
+                "cross_category_id": "733",
+                "id": "95361595",
+                "available": "true",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1530596198/18164321-KFBpLZ9R.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-s-vysokim-vorotnikom-chernyj-953615/",
+                "title": "Пуловер с высоким воротником",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-s-vysokim-vorotnikom-chernyj-953615/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "star": "4",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/335/95361595"
+                    },
+                    {
+                        "path": "st_w300_h500/2/335/95361595",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/335/95361595"
+                    }
+                ],
+                "oldPrice": 990
+            },
+            "main": 1,
+            "refs": []
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "id": 3,
+            "data": {
+                "price": 2390,
+                "target_url": "http://www.bonprix.ru/produkty/plate-temno-sinijyarkij-risunok-967393/",
+                "id": "96739395",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1505714018/17238238-f9PP6ONy.jpg",
+                "cross_category_id": "731",
+                "available": "true",
+                "description_id": "default",
+                "categoryId": [
+                    "731"
+                ],
+                "star": "4",
+                "oldPrice": 2390,
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/162/96739395"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/162/96739395"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/162/96739395"
+                    }
+                ],
+                "title": "Платье",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-temno-sinijyarkij-risunok-967393/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]"
+            }
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "id": 4,
+            "data": {
+                "star": "3",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/147/94386395"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/147/94386395"
+                    },
+                    {
+                        "path": "st_w64_h90/2/147/94386395",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "oldPrice": 1890,
+                "description_id": "default",
+                "categoryId": [
+                    "560"
+                ],
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-vyazanoe-cvet-buziny-943863/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Платье вязаное",
+                "target_url": "http://www.bonprix.ru/produkty/plate-vyazanoe-cvet-buziny-943863/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1536822519/18250637-NKFFBBfG.jpg",
+                "available": "true",
+                "cross_category_id": "560",
+                "id": "94386395",
+                "price": 1890
+            }
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "id": 5,
+            "data": {
+                "categoryId": [
+                    "55"
+                ],
+                "description_id": "default",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/993/96571595"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/993/96571595"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/993/96571595"
+                    }
+                ],
+                "star": "4",
+                "oldPrice": 2990,
+                "title": "Куртка стеганая, двухцветная",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/dvuhcvetnoe-steganoe-palto-temno-olivkovyjchernyj-965715/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "price": 2990,
+                "id": "96571595",
+                "available": "true",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1504178042/17174259-saBQ1NSi.jpg",
+                "cross_category_id": "55",
+                "target_url": "http://www.bonprix.ru/produkty/dvuhcvetnoe-steganoe-palto-temno-olivkovyjchernyj-965715/"
+            }
+        },
+        {
+            "id": 6,
+            "data": {
+                "price": 1890,
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1536240225/18258060-9SqFxXFf.jpg",
+                "cross_category_id": "733",
+                "available": "true",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-vyazanyj-s-klinoobraznym-vyrezom-gorloviny-shafranno-zheltyj-954998/",
+                "id": "95499895",
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/46/95499895"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/46/95499895"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/46/95499895"
+                    }
+                ],
+                "star": "4",
+                "oldPrice": 1890,
+                "title": "Пуловер вязаный с клинообразным вырезом горловины",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-vyazanyj-s-klinoobraznym-vyrezom-gorloviny-shafranno-zheltyj-954998/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]"
+            },
+            "refs": [],
+            "main": 1
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "data": {
+                "id": "97250295",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-s-rukavom-letuchaya-mysh-chernyj-972502/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1530265845/17273937-wUjS0pYQ.jpg",
+                "cross_category_id": "733",
+                "available": "true",
+                "price": 1390,
+                "oldPrice": 1390,
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/860/97250295"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/860/97250295"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/860/97250295"
+                    }
+                ],
+                "star": "4",
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-s-rukavom-letuchaya-mysh-chernyj-972502/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Пуловер с рукавом «летучая мышь»"
+            },
+            "id": 7
+        },
+        {
+            "id": 8,
+            "data": {
+                "price": 1690,
+                "cross_category_id": "733",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1534239366/18226023-VVo7NQCm.jpg",
+                "available": "true",
+                "id": "93457795",
+                "target_url": "http://www.bonprix.ru/produkty/udlinennyj-pulover-s-razrezom-chernyj-934577/",
+                "title": "Пуловер с разрезом",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/udlinennyj-pulover-s-razrezom-chernyj-934577/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/104/93457795",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/104/93457795",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/104/93457795",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "oldPrice": 1690,
+                "star": "4"
+            },
+            "refs": [],
+            "main": 1
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "id": 9,
+            "data": {
+                "price": 1990,
+                "id": "92202395",
+                "cross_category_id": "733",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1507897909/17262904-nI7I29wZ.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-chernyjkrasnyjbelyj-s-uzorom-922023/",
+                "available": "true",
+                "title": "Пуловер",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-chernyjkrasnyjbelyj-s-uzorom-922023/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "star": "4",
+                "oldPrice": 1990,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/426/92202395",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/426/92202395",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/426/92202395",
+                        "sizetype": "st_w64_h90"
+                    }
+                ]
+            }
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "id": 10,
+            "data": {
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/bolero-vyazanoe-temno-sinij-916169/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Болеро вязаное",
+                "star": "5",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/360/91616995"
+                    },
+                    {
+                        "path": "st_w300_h500/2/360/91616995",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/360/91616995"
+                    }
+                ],
+                "oldPrice": 1390,
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "id": "91616995",
+                "available": "true",
+                "cross_category_id": "733",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1521194971/17342512-ld6TSuZp.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/bolero-vyazanoe-temno-sinij-916169/",
+                "price": 1390
+            }
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "data": {
+                "id": "90751781",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-lososevo-rozovyj-907517/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1519375051/18044775-BTaaAEA9.jpg",
+                "available": "true",
+                "cross_category_id": "733",
+                "price": 999,
+                "oldPrice": 999,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/71/90751781",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/71/90751781",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/71/90751781",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "4",
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-lososevo-rozovyj-907517/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Пуловер"
+            },
+            "id": 11
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "data": {
+                "id": "97643095",
+                "target_url": "http://www.bonprix.ru/produkty/plate-s-drapirovkoj-chernyjkorallovyj-s-printom-976430/",
+                "available": "true",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1512982185/17311772-FwKbZO4S.jpg",
+                "cross_category_id": "731",
+                "price": 1990,
+                "star": "4",
+                "oldPrice": 1990,
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/409/97643095"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/409/97643095"
+                    },
+                    {
+                        "path": "st_w64_h90/2/409/97643095",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "categoryId": [
+                    "731"
+                ],
+                "description_id": "default",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-s-drapirovkoj-chernyjkorallovyj-s-printom-976430/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Платье с драпировкой"
+            },
+            "id": 12
+        },
+        {
+            "data": {
+                "description_id": "default",
+                "categoryId": [
+                    "731"
+                ],
+                "oldPrice": 1690,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/130/96908195",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/130/96908195",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/130/96908195"
+                    }
+                ],
+                "star": "4",
+                "title": "Платье",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/platjie-chernyj-969081/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "price": 1690,
+                "id": "96908195",
+                "cross_category_id": "731",
+                "target_url": "http://www.bonprix.ru/produkty/platjie-chernyj-969081/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1534146833/16073979-85lRZGCu.jpg",
+                "available": "true"
+            },
+            "id": 13,
+            "main": 1,
+            "refs": []
+        },
+        {
+            "data": {
+                "title": "Платье",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-temno-sinijchernyj-968666/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "categoryId": [
+                    "731"
+                ],
+                "description_id": "default",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/607/96866695"
+                    },
+                    {
+                        "path": "st_w300_h500/2/607/96866695",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/607/96866695",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "",
+                "oldPrice": 2690,
+                "price": 2690,
+                "target_url": "http://www.bonprix.ru/produkty/plate-temno-sinijchernyj-968666/",
+                "id": "96866695",
+                "cross_category_id": "731",
+                "available": "true",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1537260901/18015424-xrU5y1VA.jpg"
+            },
+            "id": 14,
+            "main": 1,
+            "refs": []
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "data": {
+                "cross_category_id": "731",
+                "target_url": "http://www.bonprix.ru/produkty/plate-rozovyj-944132/",
+                "id": "94413295",
+                "available": "true",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1521551309/18077715-cDJ86Fom.jpg",
+                "price": 1990,
+                "star": "4",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/457/94413295"
+                    },
+                    {
+                        "path": "st_w300_h500/2/457/94413295",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/457/94413295"
+                    }
+                ],
+                "oldPrice": 1990,
+                "categoryId": [
+                    "731"
+                ],
+                "description_id": "default",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-rozovyj-944132/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Платье"
+            },
+            "id": 15
+        },
+        {
+            "id": 16,
+            "data": {
+                "available": "true",
+                "target_url": "http://www.bonprix.ru/produkty/korrektiruyushchee-trikotazhnoe-plate-temno-sinijbezhevyj-937887/",
+                "cross_category_id": "731",
+                "id": "93788795",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1514978385/17294587-Cgv2ea6o.jpg",
+                "price": 3990,
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/korrektiruyushchee-trikotazhnoe-plate-temno-sinijbezhevyj-937887/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "title": "Платье",
+                "oldPrice": 3990,
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/80/93788795"
+                    },
+                    {
+                        "path": "st_w300_h500/2/80/93788795",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/80/93788795",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "4",
+                "description_id": "default",
+                "categoryId": [
+                    "731"
+                ]
+            },
+            "refs": [],
+            "main": 1
+        },
+        {
+            "data": {
+                "price": 799,
+                "cross_category_id": "560",
+                "available": "true",
+                "target_url": "http://www.bonprix.ru/produkty/plate-iz-ehlastichnogo-trikotazha-lososevyj-959004/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1522757689/18070667-T7zS5OEo.jpg",
+                "id": "95900481",
+                "title": "Платье из эластичного трикотажа",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-iz-ehlastichnogo-trikotazha-lososevyj-959004/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "categoryId": [
+                    "560"
+                ],
+                "description_id": "default",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/264/95900481"
+                    },
+                    {
+                        "path": "st_w300_h500/2/264/95900481",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/264/95900481",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "4",
+                "oldPrice": 799
+            },
+            "id": 17,
+            "main": 1,
+            "refs": []
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "data": {
+                "price": 1390,
+                "available": "true",
+                "cross_category_id": null,
+                "id": "93315895",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1536043305/18268190-iiuqu8Lh.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/plate-krasnyj-933158/",
+                "title": "Платье",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-krasnyj-933158/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "description_id": "default",
+                "categoryId": [
+                    "-3149"
+                ],
+                "oldPrice": 1390,
+                "star": "5",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/677/93315895",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/677/93315895"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/677/93315895"
+                    }
+                ]
+            },
+            "id": 18
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "id": 19,
+            "data": {
+                "price": 1890,
+                "id": "93017995",
+                "cross_category_id": null,
+                "target_url": "http://www.bonprix.ru/produkty/plate-vyazanoe-s-dlinnym-rukavom-temno-sinij-930179/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1540207117/18290725-TXCwumbn.jpg",
+                "available": "true",
+                "title": "Платье вязаное с длинным рукавом",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-vyazanoe-s-dlinnym-rukavom-temno-sinij-930179/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "description_id": "default",
+                "categoryId": [
+                    "-3153"
+                ],
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/482/93017995"
+                    },
+                    {
+                        "path": "st_w300_h500/2/482/93017995",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/482/93017995"
+                    }
+                ],
+                "star": "",
+                "oldPrice": 1890
+            }
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "data": {
+                "categoryId": [
+                    "560"
+                ],
+                "description_id": "default",
+                "star": "",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/925/92871881"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/925/92871881"
+                    },
+                    {
+                        "path": "st_w64_h90/2/925/92871881",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "oldPrice": 1290,
+                "title": "Платье стрейчевое с карманами",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-strejchevoe-s-karmanami-temno-sinij-928718/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "price": 1290,
+                "cross_category_id": "560",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1533888710/18191964-TfPhotWN.jpg",
+                "id": "92871881",
+                "available": "true",
+                "target_url": "http://www.bonprix.ru/produkty/plate-strejchevoe-s-karmanami-temno-sinij-928718/"
+            },
+            "id": 20
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "id": 21,
+            "data": {
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-dizajna-maite-kelly-s-printom-v-cvetochek-i-rukavom-34-temno-sinij-v-cvetochek-928432/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "title": "Платье дизайна Maite Kelly с принтом в цветочек и рукавом 3/4",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/739/92843295",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/739/92843295"
+                    },
+                    {
+                        "path": "st_w64_h90/2/739/92843295",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "4",
+                "oldPrice": 1990,
+                "categoryId": [
+                    "560"
+                ],
+                "description_id": "default",
+                "id": "92843295",
+                "cross_category_id": "560",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1537102515/18244550-415NJ7Sq.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/plate-dizajna-maite-kelly-s-printom-v-cvetochek-i-rukavom-34-temno-sinij-v-cvetochek-928432/",
+                "available": "true",
+                "price": 1990
+            }
+        },
+        {
+            "data": {
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/palto-steganoe-chernyj-962777/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Пальто стеганое",
+                "oldPrice": 3990,
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/950/96277795"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/950/96277795"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/950/96277795"
+                    }
+                ],
+                "star": "",
+                "categoryId": [
+                    "55"
+                ],
+                "description_id": "default",
+                "available": "true",
+                "cross_category_id": "55",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1537195866/18271866-prGFPyuu.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/palto-steganoe-chernyj-962777/",
+                "id": "96277795",
+                "price": 3990
+            },
+            "id": 22,
+            "main": 1,
+            "refs": []
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "id": 23,
+            "data": {
+                "title": "Куртка на зиму",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/zimnjaja-kurtka-sero-zelenyj-952597/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "categoryId": [
+                    "55"
+                ],
+                "description_id": "default",
+                "oldPrice": 4850,
+                "star": "4",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/821/95259795",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/821/95259795",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/821/95259795",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "price": 4850,
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1487861092/16133545-w9VgIGg8.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/zimnjaja-kurtka-sero-zelenyj-952597/",
+                "cross_category_id": "55",
+                "available": "true",
+                "id": "95259795"
+            }
+        },
+        {
+            "id": 24,
+            "data": {
+                "description_id": "default",
+                "categoryId": [
+                    "55"
+                ],
+                "oldPrice": 5490,
+                "star": "1",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/619/94021495",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/619/94021495",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/619/94021495"
+                    }
+                ],
+                "title": "Пальто из различных материалов",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/palto-iz-razlichnyh-materialov-temno-olivkovyjchernyj-940214/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "price": 5490,
+                "target_url": "http://www.bonprix.ru/produkty/palto-iz-razlichnyh-materialov-temno-olivkovyjchernyj-940214/",
+                "available": "true",
+                "id": "94021495",
+                "cross_category_id": "55",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1537509607/18271861-FxF3XOQW.jpg"
+            },
+            "refs": [],
+            "main": 1
+        },
+        {
+            "id": 25,
+            "data": {
+                "price": 4790,
+                "available": "true",
+                "id": "93842695",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1507274613/17256698-mSX1rzOy.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/steganaya-kurtka-chernyj-938426/",
+                "cross_category_id": "55",
+                "description_id": "default",
+                "categoryId": [
+                    "55"
+                ],
+                "oldPrice": 4790,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/101/93842695",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/101/93842695"
+                    },
+                    {
+                        "path": "st_w64_h90/2/101/93842695",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "4",
+                "title": "Стеганая куртка",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/steganaya-kurtka-chernyj-938426/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0
+            },
+            "refs": [],
+            "main": 1
+        },
+        {
+            "id": 26,
+            "data": {
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1536842789/18233983-yHCKjExQ.jpg",
+                "cross_category_id": "55",
+                "id": "93648095",
+                "target_url": "http://www.bonprix.ru/produkty/kurtka-s-kapyushonom-na-podkladke-temno-sinij-936480/",
+                "available": "true",
+                "price": 4850,
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/603/93648095"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/603/93648095"
+                    },
+                    {
+                        "path": "st_w64_h90/2/603/93648095",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "oldPrice": 4850,
+                "star": "5",
+                "categoryId": [
+                    "55"
+                ],
+                "description_id": "default",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/kurtka-s-kapyushonom-na-podkladke-temno-sinij-936480/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Куртка с капюшоном на подкладке"
+            },
+            "refs": [],
+            "main": 1
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "data": {
+                "star": "4",
+                "oldPrice": 2390,
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/573/96214295"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/573/96214295"
+                    },
+                    {
+                        "path": "st_w64_h90/2/573/96214295",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "description_id": "default",
+                "categoryId": [
+                    "-248"
+                ],
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-vyazanyj-limonnyj-karri-962142/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Пуловер вязаный",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1536306381/18259481-33lhZoXO.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-vyazanyj-limonnyj-karri-962142/",
+                "available": "true",
+                "id": "96214295",
+                "cross_category_id": null,
+                "price": 2390
+            },
+            "id": 27
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "id": 28,
+            "data": {
+                "price": 1390,
+                "target_url": "http://www.bonprix.ru/produkty/pulover-v-stile-oversajz-myatnyj-melanzh-930677/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1533642204/18227803-NtWtngqn.jpg",
+                "available": "true",
+                "cross_category_id": "733",
+                "id": "93067795",
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/723/93067795",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/723/93067795"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/723/93067795"
+                    }
+                ],
+                "oldPrice": 1390,
+                "star": "4",
+                "title": "Пуловер в стиле оверсайз",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-v-stile-oversajz-myatnyj-melanzh-930677/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0
+            }
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "data": {
+                "target_url": "http://www.bonprix.ru/produkty/pulover-s-vorotnikom-stojkoj-oranzhevyj-matovyj-929470/",
+                "cross_category_id": "733",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1538463158/18231005-2KF5ez5m.jpg",
+                "available": "true",
+                "id": "92947095",
+                "price": 1290,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/795/92947095",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/795/92947095",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/795/92947095"
+                    }
+                ],
+                "oldPrice": 1290,
+                "star": "4",
+                "description_id": "default",
+                "categoryId": [
+                    "733"
+                ],
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-s-vorotnikom-stojkoj-oranzhevyj-matovyj-929470/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Пуловер с воротником-стойкой"
+            },
+            "id": 29
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "data": {
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-tonkoj-vyazki-s-businami-antracitovyj-melanzh-904980/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "title": "Пуловер тонкой вязки с бусинами",
+                "oldPrice": 1890,
+                "star": "5",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/461/90498095"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/461/90498095"
+                    },
+                    {
+                        "path": "st_w64_h90/2/461/90498095",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "description_id": "default",
+                "categoryId": [
+                    "733"
+                ],
+                "id": "90498095",
+                "cross_category_id": "733",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-tonkoj-vyazki-s-businami-antracitovyj-melanzh-904980/",
+                "available": "true",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1537366319/18273773-GBO0WHqn.jpg",
+                "price": 1890
+            },
+            "id": 30
+        },
+        {
+            "data": {
+                "description_id": "default",
+                "categoryId": [
+                    "732"
+                ],
+                "oldPrice": 1390,
+                "star": "4",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/172/97633395"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/172/97633395"
+                    },
+                    {
+                        "path": "st_w64_h90/2/172/97633395",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "title": "Прямые джинсы-стретч",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pryamye-dzhinsy-stretch-temno-sinij-976333/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "price": 1390,
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1537519358/18248592-u4uR5fUS.jpg",
+                "cross_category_id": "732",
+                "target_url": "http://www.bonprix.ru/produkty/pryamye-dzhinsy-stretch-temno-sinij-976333/",
+                "id": "97633395",
+                "available": "true"
+            },
+            "id": 31,
+            "main": 1,
+            "refs": []
+        },
+        {
+            "id": 32,
+            "data": {
+                "cross_category_id": "733",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-chernyj-969522/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1529481417/18166122-9yGdsdSb.jpg",
+                "id": "96952295",
+                "available": "true",
+                "price": 990,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-chernyj-969522/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Пуловер",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/283/96952295"
+                    },
+                    {
+                        "path": "st_w300_h500/2/283/96952295",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/283/96952295"
+                    }
+                ],
+                "oldPrice": 990,
+                "star": "4",
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default"
+            },
+            "main": 1,
+            "refs": []
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "data": {
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/647/96675395"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/647/96675395"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/647/96675395"
+                    }
+                ],
+                "star": "4",
+                "oldPrice": 1990,
+                "description_id": "default",
+                "categoryId": [
+                    "732"
+                ],
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/funkcionalnye-termobryuki-chernyj-966753/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Функциональные термобрюки",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1538458535/18300584-TQ14zDYs.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/funkcionalnye-termobryuki-chernyj-966753/",
+                "cross_category_id": "732",
+                "available": "true",
+                "id": "96675395",
+                "price": 1990
+            },
+            "id": 33
+        },
+        {
+            "id": 34,
+            "data": {
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1483952340/16265893-LaCIfbfK.jpg",
+                "cross_category_id": "734",
+                "available": "true",
+                "target_url": "http://www.bonprix.ru/produkty/bluzka-s-printom-i-dlinnym-rukavom-v-cvetochek-966579/",
+                "id": "96657981",
+                "price": 599,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/358/96657981",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/358/96657981",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/358/96657981",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "oldPrice": 599,
+                "star": "4",
+                "categoryId": [
+                    "734"
+                ],
+                "description_id": "default",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/bluzka-s-printom-i-dlinnym-rukavom-v-cvetochek-966579/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "title": "Блузка с принтом и длинным рукавом"
+            },
+            "main": 1,
+            "refs": []
+        },
+        {
+            "id": 35,
+            "data": {
+                "title": "Пуловер с воротником гольф",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-s-vorotnikom-golf-kremovyj-962729/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "oldPrice": 990,
+                "star": "5",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/419/96272995",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/419/96272995",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/419/96272995"
+                    }
+                ],
+                "price": 990,
+                "cross_category_id": "733",
+                "available": "true",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1539949255/18293086-O1NCJjrI.jpg",
+                "id": "96272995",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-s-vorotnikom-golf-kremovyj-962729/"
+            },
+            "refs": [],
+            "main": 1
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "id": 36,
+            "data": {
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/klassicheskaja-bluzka-belyj-960266/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "title": "Классическая блузка",
+                "star": "4",
+                "oldPrice": 990,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/199/96026695",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/199/96026695"
+                    },
+                    {
+                        "path": "st_w64_h90/2/199/96026695",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "description_id": "default",
+                "categoryId": [
+                    "734"
+                ],
+                "cross_category_id": "734",
+                "available": "true",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1503661121/16240267-vkjiD6cF.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/klassicheskaja-bluzka-belyj-960266/",
+                "id": "96026695",
+                "price": 990
+            }
+        },
+        {
+            "data": {
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/nochnaya-sorochka-s-blestyashchim-printom-antracitovyj-melanzh-s-risunkom-949373/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Ночная сорочка с блестящим принтом",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/972/94937395",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/972/94937395"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/972/94937395"
+                    }
+                ],
+                "star": "",
+                "oldPrice": 990,
+                "description_id": "default",
+                "categoryId": [
+                    "-1426"
+                ],
+                "id": "94937395",
+                "cross_category_id": null,
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1539852504/18215200-unAMyEg7.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/nochnaya-sorochka-s-blestyashchim-printom-antracitovyj-melanzh-s-risunkom-949373/",
+                "available": "true",
+                "price": 990
+            },
+            "id": 37,
+            "main": 1,
+            "refs": []
+        },
+        {
+            "id": 38,
+            "data": {
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1538117103/18292671-jzh3gLWz.jpg",
+                "cross_category_id": null,
+                "available": "true",
+                "id": "94914795",
+                "target_url": "http://www.bonprix.ru/produkty/futbolka-s-lyureksom-chernyjserebristyj-949147/",
+                "price": 990,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/futbolka-s-lyureksom-chernyjserebristyj-949147/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Футболка с люрексом",
+                "star": "",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/966/94914795",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/966/94914795"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/966/94914795"
+                    }
+                ],
+                "oldPrice": 990,
+                "description_id": "default",
+                "categoryId": [
+                    "-121189"
+                ]
+            },
+            "main": 1,
+            "refs": []
+        },
+        {
+            "data": {
+                "title": "Пуловер с высоким воротником",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-s-vysokim-vorotnikom-goluboj-946398/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "oldPrice": 990,
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/335/94639895"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/335/94639895"
+                    },
+                    {
+                        "path": "st_w64_h90/2/335/94639895",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "4",
+                "price": 990,
+                "available": "true",
+                "cross_category_id": "733",
+                "id": "94639895",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-s-vysokim-vorotnikom-goluboj-946398/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1530596198/18164321-KFBpLZ9R.jpg"
+            },
+            "id": 39,
+            "main": 1,
+            "refs": []
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "id": 40,
+            "data": {
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/sidjawie-figurki-rudi-merle-2-sht-razlichnye-rascvetki-946037/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Фигурки «Руди & Мерле» (2 шт.)",
+                "star": "5",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/508/94603795"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/508/94603795"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/508/94603795"
+                    }
+                ],
+                "oldPrice": 1390,
+                "description_id": "default",
+                "categoryId": [
+                    "743"
+                ],
+                "id": "94603795",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1537514076/17204626-qBr5w8x0.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/sidjawie-figurki-rudi-merle-2-sht-razlichnye-rascvetki-946037/",
+                "cross_category_id": "743",
+                "available": "true",
+                "price": 1390
+            }
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "data": {
+                "title": "Пуловер с высоким воротником",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-s-vysokim-vorotnikom-temno-sinij-941558/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "oldPrice": 990,
+                "star": "4",
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/164/94155895",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/164/94155895"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/164/94155895"
+                    }
+                ],
+                "price": 990,
+                "target_url": "http://www.bonprix.ru/produkty/pulover-s-vysokim-vorotnikom-temno-sinij-941558/",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1501058221/17178261-hnYqT90W.jpg",
+                "id": "94155895",
+                "cross_category_id": "733",
+                "available": "true"
+            },
+            "id": 41
+        },
+        {
+            "data": {
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-rozovyj-939275/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Пуловер",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/6/93927595"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/6/93927595"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/6/93927595"
+                    }
+                ],
+                "oldPrice": 990,
+                "star": "4",
+                "description_id": "default",
+                "categoryId": [
+                    "733"
+                ],
+                "id": "93927595",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-rozovyj-939275/",
+                "available": "true",
+                "cross_category_id": "733",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1529481420/18165694-ZbxPQLqx.jpg",
+                "price": 990
+            },
+            "id": 42,
+            "refs": [],
+            "main": 1
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "id": 43,
+            "data": {
+                "price": 3290,
+                "target_url": "http://www.bonprix.ru/produkty/plate-midi-chernyjtemno-oranzhevyj-s-risunkom-937020/",
+                "id": "93702095",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1538638752/18287642-w1XQkWkO.jpg",
+                "cross_category_id": "731",
+                "available": "true",
+                "title": "Платье-миди",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-midi-chernyjtemno-oranzhevyj-s-risunkom-937020/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "description_id": "default",
+                "categoryId": [
+                    "731"
+                ],
+                "oldPrice": 3290,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/552/93702095",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/552/93702095"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/552/93702095"
+                    }
+                ],
+                "star": "4"
+            }
+        },
+        {
+            "id": 44,
+            "data": {
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/563/92889795"
+                    },
+                    {
+                        "path": "st_w300_h500/2/563/92889795",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/563/92889795",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "oldPrice": 2390,
+                "star": "5",
+                "categoryId": [
+                    "731"
+                ],
+                "description_id": "default",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-vyazanoe-blochnoj-rascvetki-krasnyjtemno-sinij-928897/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "title": "Платье вязаное блочной расцветки",
+                "id": "92889795",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1537803830/18267759-EqjEwqUd.jpg",
+                "available": "true",
+                "target_url": "http://www.bonprix.ru/produkty/plate-vyazanoe-blochnoj-rascvetki-krasnyjtemno-sinij-928897/",
+                "cross_category_id": "731",
+                "price": 2390
+            },
+            "main": 1,
+            "refs": []
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "id": 45,
+            "data": {
+                "price": 599,
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1519202433/17338423-pxV3EioZ.jpg",
+                "cross_category_id": "733",
+                "available": "true",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-kremovyjlimonnyj-917055/",
+                "id": "91705581",
+                "description_id": "default",
+                "categoryId": [
+                    "733"
+                ],
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/401/91705581"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/401/91705581"
+                    },
+                    {
+                        "path": "st_w64_h90/2/401/91705581",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "5",
+                "oldPrice": 599,
+                "title": "Пуловер",
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-kremovyjlimonnyj-917055/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0
+            }
+        },
+        {
+            "data": {
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/dzhinsy-skinni-stretch-sinij-916376/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "title": "Джинсы-скинни стретч",
+                "star": "4",
+                "oldPrice": 790,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/985/91637695",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/985/91637695"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/985/91637695"
+                    }
+                ],
+                "categoryId": [
+                    "560"
+                ],
+                "description_id": "default",
+                "available": "true",
+                "cross_category_id": "560",
+                "id": "91637695",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1501078563/17158070-uyXKKVzd.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/dzhinsy-skinni-stretch-sinij-916376/",
+                "price": 790
+            },
+            "id": 46,
+            "main": 1,
+            "refs": []
+        },
+        {
+            "id": 47,
+            "data": {
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1534758317/18225723-b03qsfG1.jpg",
+                "available": "true",
+                "id": "91326995",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-udlinennyj-vintazhno-rozovyj-913269/",
+                "cross_category_id": "560",
+                "price": 1150,
+                "oldPrice": 1150,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/532/91326995",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "sizetype": "st_w300_h500",
+                        "path": "st_w300_h500/2/532/91326995"
+                    },
+                    {
+                        "path": "st_w64_h90/2/532/91326995",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "5",
+                "description_id": "default",
+                "categoryId": [
+                    "560"
+                ],
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-udlinennyj-vintazhno-rozovyj-913269/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Пуловер удлиненный"
+            },
+            "main": 1,
+            "refs": []
+        },
+        {
+            "refs": [],
+            "main": 1,
+            "id": 48,
+            "data": {
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/pulover-s-korotkim-rukavom-sinij-zhemchug-913117/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Пуловер с коротким рукавом",
+                "oldPrice": 890,
+                "picture": [
+                    {
+                        "path": "st_w240_h310/2/386/91311795",
+                        "sizetype": "st_w240_h310"
+                    },
+                    {
+                        "path": "st_w300_h500/2/386/91311795",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/386/91311795"
+                    }
+                ],
+                "star": "5",
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1530597287/18164309-ZWMVI9H1.jpg",
+                "available": "true",
+                "id": "91311795",
+                "cross_category_id": "733",
+                "target_url": "http://www.bonprix.ru/produkty/pulover-s-korotkim-rukavom-sinij-zhemchug-913117/",
+                "price": 890
+            }
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "id": 49,
+            "data": {
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/velvetovye-bryuki-stretch-chernichnyj-911828/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "discount": 0,
+                "title": "Вельветовые брюки-стретч",
+                "oldPrice": 1290,
+                "star": "5",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/506/91182895"
+                    },
+                    {
+                        "path": "st_w300_h500/2/506/91182895",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/506/91182895",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "categoryId": [
+                    "732"
+                ],
+                "description_id": "default",
+                "available": "true",
+                "cross_category_id": "732",
+                "id": "91182895",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1502957610/17167242-z9i2znQT.jpg",
+                "target_url": "http://www.bonprix.ru/produkty/velvetovye-bryuki-stretch-chernichnyj-911828/",
+                "price": 1290
+            }
+        },
+        {
+            "main": 1,
+            "refs": [],
+            "id": 50,
+            "data": {
+                "target_url": "http://www.bonprix.ru/produkty/vyazanyj-pulover-zelenyjbelyj-925097/",
+                "cross_category_id": "733",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1530190369/18153007-fgw4MHob.jpg",
+                "available": "true",
+                "id": "92509795",
+                "price": 1390,
+                "oldPrice": 1390,
+                "star": "4",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/565/92509795"
+                    },
+                    {
+                        "path": "st_w300_h500/2/565/92509795",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "sizetype": "st_w64_h90",
+                        "path": "st_w64_h90/2/565/92509795"
+                    }
+                ],
+                "categoryId": [
+                    "733"
+                ],
+                "description_id": "default",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/vyazanyj-pulover-zelenyjbelyj-925097/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "title": "Вязаный пуловер"
+            }
+        },
+        {
+            "id": 51,
+            "data": {
+                "price": 2390,
+                "id": "94851395",
+                "cross_category_id": "731",
+                "target_url": "http://www.bonprix.ru/produkty/plate-s-vyrezom-karmen-chernyj-948513/",
+                "available": "true",
+                "base_url": "http://image01.bonprix.ru/assets/319x448/1498481599/17128496-5SNd20ff.jpg",
+                "title": "Платье с вырезом-кармен",
+                "discount": 0,
+                "url": "http://ssl.hurra.com/TrackIt?tid=10087150C577PPC&url=[[http://www.bonprix.ru/produkty/plate-s-vyrezom-karmen-chernyj-948513/?landmark=Entry&wkz=98&iwl=291&typ=POR&anbieter=Soloway&aktion=POR_VKB&version=SSP_NAME&promo=promo]]",
+                "categoryId": [
+                    "731"
+                ],
+                "description_id": "default",
+                "picture": [
+                    {
+                        "sizetype": "st_w240_h310",
+                        "path": "st_w240_h310/2/136/94851395"
+                    },
+                    {
+                        "path": "st_w300_h500/2/136/94851395",
+                        "sizetype": "st_w300_h500"
+                    },
+                    {
+                        "path": "st_w64_h90/2/136/94851395",
+                        "sizetype": "st_w64_h90"
+                    }
+                ],
+                "star": "4",
+                "oldPrice": 2390
+            },
+            "refs": [],
+            "main": 1
+        }
+    ]
+}
