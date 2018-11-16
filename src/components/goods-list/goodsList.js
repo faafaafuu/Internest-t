@@ -1,4 +1,5 @@
 import React from 'react'
+
 //вывод обектов в таблицу
 export default ({good}) => {
     const listItem = good.map((e) => {
