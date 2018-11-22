@@ -1,5 +1,5 @@
 {
-  "name": "exapmlesort",
+  "name": "items-filter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,6 +34,7 @@
     "jest-pnp-resolver": "1.0.1",
     "jest-resolve": "23.6.0",
     "mini-css-extract-plugin": "0.4.3",
+    "node-sass": "^4.10.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "pnp-webpack-plugin": "1.1.0",
     "postcss-flexbugs-fixes": "4.1.0",
@@ -50,6 +51,7 @@
     "redux-thunk": "^2.3.0",
     "resolve": "1.8.1",
     "sass-loader": "7.1.0",
+    "semantic-ui-react": "^0.83.0",
     "sort-multidimensional-array-func": "^1.0.1",
     "style-loader": "0.23.0",
     "terser-webpack-plugin": "1.1.0",
