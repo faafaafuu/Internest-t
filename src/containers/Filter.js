@@ -4,8 +4,8 @@ import {connect} from 'react-redux';
 import Filter from '../components/table-sort'
 import * as filterActions from '../actions/filter'
 
-const mapStateToProps = ({goods}) => ({
-    filterBy: goods.filterBy
+const mapStateToProps = ({goods, filter}) => ({
+    filterBy: filter.filterBy
   })
   
   const mapDispatchToProps = dispatch => ({
